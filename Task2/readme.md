@@ -17,11 +17,15 @@ Make sure you have Node.js installed on your local machine. If you don't have it
    ```bash
    npm install
 
+   ```
+
 3. Run the following command to start the project:
 
    ```bash
    npm run dev
 
+   ```
+
 4. Open the followig address in the browser
 
-    [http://127.0.0.1:5173](http://127.0.0.1:5173/) or navigate the URL shown in the terminal
+   [http://127.0.0.1:5173](http://127.0.0.1:5173/) or navigate the URL shown in the terminal
